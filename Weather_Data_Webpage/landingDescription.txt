@@ -6,6 +6,7 @@ Click on any plot to get an in-depth analysis.
 
 The following table includes all of the data used for plotting during this project. 
 
+<<<<<<< HEAD
 As expected, the weather becomes significantly warmer as one approaches the equator(0 Deg. Latitude). More interestingly, however, it is a fact that the southern hemisphere tends to be warmer than the northern hemisphere this time of year. This may be due to the the current eason at the time of data collection. 
 
 
@@ -15,3 +16,6 @@ There are sprinkles of high levels of humidity across all latitudes, but it seem
 It is difficult to see any clear patterns in the cloudiness vs. latitude readings. Some trends are: there are a large number of cities across latitudes that experienced 0% cloudieness, there are also more observations of clouds at the highest latitudes than at the lowest latitudes.
 
 The majority of cities in our sample have wind speed ranging from 0-20 mph, but there are a couple of outliers that experienced wind speed in excess of 20 mph. And only 4 cities have experienced more than 30 mph!
+=======
+As expected, the weather becomes significantly warmer as one approaches the equator(0 Deg. Latitude). More interestingly, however, it is a fact that the southern hemisphere tends to be warmer than the northern hemisphere this time of year. This may be due to the the current eason at the time of data collection. 
+>>>>>>> 2d5100787f252cddc85ed5d341fe3548348b22fb
